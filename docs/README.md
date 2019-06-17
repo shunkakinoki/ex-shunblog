@@ -1,16 +1,14 @@
 ---
-home: false
-footer: MIT Licensed | Copyright © Shun Kakinoki 2019-present
+home: true
+heroImage: home.png
+actionText: Get Started →
+actionLink: /life-mission/
+features:
+- title: Simplicity First
+  details: Minimal setup with markdown-centered project structure helps you focus on writing.
+- title: Vue-Powered
+  details: Enjoy the dev experience of Vue + webpack, use Vue components in markdown, and develop custom themes with Vue.
+- title: Performant
+  details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
+footer: MIT Licensed | Copyright © 2019-present Shun Kakinoki
 ---
-
-# LIFE MISSION
-
-## OBJECTIVE
-
-OBLITERATE THE GALAXY
-
-## KEY RESULTS
-
-- INVENT A PRODUCT / SERVICE THAT IS TRULY GALAXY-SHATTERING
-- INITIATE A CHAIN REACTION OF INFATUATION IN THE HUMAN SOCIETY
-- DO WHAT IS TRULY RIGHT IN THE PERSPECTIVE OF THE GREATER GOOD
