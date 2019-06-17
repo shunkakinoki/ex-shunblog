@@ -7,10 +7,15 @@ module.exports = {
   title: "shunblog",
   description: "Personal Blog",
   base: '/',
+  head: [
+    ['link', {
+      rel: 'icon',
+      href: 'logo.png'
+    }]
+  ],
   themeConfig: {
     lastUpdated: 'Last Updated',
     logo: 'logo.png',
-    // docsDir: '/',
     nav: [{
         text: 'Home',
         link: '/'
