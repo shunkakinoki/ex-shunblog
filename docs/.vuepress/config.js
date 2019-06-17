@@ -21,6 +21,13 @@ module.exports = {
         link: '/'
       },
       {
+        text: 'Life Mission',
+        link: '/life-mission/'
+      }, {
+        text: 'Timeline',
+        link: '/timeline/'
+      },
+      {
         text: 'Github',
         link: 'https://github.com/shunkakinoki/shunblog'
       },
