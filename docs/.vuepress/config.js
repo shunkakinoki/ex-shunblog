@@ -9,9 +9,19 @@ module.exports = {
   base: '/',
   themeConfig: {
     lastUpdated: 'Last Updated',
-    docsDir: '/',
+    logo: 'logo.png',
+    // docsDir: '/',
+    nav: [{
+        text: 'Home',
+        link: '/'
+      },
+      {
+        text: 'Github',
+        link: 'https://github.com/shunkakinoki/shunblog'
+      },
+    ],
     sidebar: [
-      ["/", "Life Mission"],
+      ["/life-mission/", "Life Mission"],
       {
         title: "2019 Quarter",
         collapsable: true,
