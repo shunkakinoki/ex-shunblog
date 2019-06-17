@@ -27,6 +27,7 @@ module.exports = {
     ],
     sidebar: [
       ["/life-mission/", "Life Mission"],
+      ["/timeline/", "Timeline"],
       {
         title: "2019 Quarter",
         collapsable: true,
