@@ -5,7 +5,7 @@ const readQuarterFileList = require('../../scripts/quarter.js');
 
 module.exports = {
   title: "shunblog",
-  description: "Personal Blog",
+  description: "Life Mission",
   base: '/',
   head: [
     ['link', {
