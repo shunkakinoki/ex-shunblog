@@ -24,11 +24,11 @@ module.exports = {
         text: 'Life Mission',
         link: '/life-mission/'
       }, {
-        text: 'Timeline',
-        link: '/timeline/'
-      }, {
         text: 'Profile',
         link: '/profile/'
+      }, {
+        text: 'Timeline',
+        link: '/timeline/'
       },
       {
         text: 'Github',
