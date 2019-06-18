@@ -26,6 +26,9 @@ module.exports = {
       }, {
         text: 'Timeline',
         link: '/timeline/'
+      }, {
+        text: 'Profile',
+        link: '/profile/'
       },
       {
         text: 'Github',
@@ -34,6 +37,7 @@ module.exports = {
     ],
     sidebar: [
       ["/life-mission/", "Life Mission"],
+      ["/profile/", "Profile"],
       ["/timeline/", "Timeline"],
       {
         title: "2019 Quarter",
