@@ -14,7 +14,7 @@ function readYearFileList() {
     const currentFile = item.slice(0, 4);
     fileList.push([
       `/year/${currentFile}`,
-      `Year ${currentFile}`,
+      `${currentFile}`,
     ]);
   });
   return fileList.reverse();

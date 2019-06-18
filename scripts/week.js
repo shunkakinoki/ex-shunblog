@@ -14,7 +14,7 @@ function readWeekFileList(year) {
     const currentFile = item.slice(0, 2);
     fileList.push([
       `/week/${year}/${currentFile}`,
-      `Year ${year} Month ${currentFile}`,
+      `${year} Month ${currentFile}`,
     ]);
   });
   return fileList.reverse();
