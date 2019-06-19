@@ -16,7 +16,7 @@ module.exports = {
   ],
   themeConfig: {
     lastUpdated: 'Last Updated',
-    logo: 'logo.png',
+    logo: 'banner.png',
     nav: [{
         text: 'Home',
         link: '/'
