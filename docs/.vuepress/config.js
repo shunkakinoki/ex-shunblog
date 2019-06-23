@@ -8,6 +8,12 @@ module.exports = {
   title: "shunblog",
   description: "Life Mission",
   base: '/',
+  head: [
+    ['link', {
+      rel: 'icon',
+      href: '/logo.png'
+    }]
+  ],
   themeConfig: {
     lastUpdated: 'Last Updated',
     nav: [{
